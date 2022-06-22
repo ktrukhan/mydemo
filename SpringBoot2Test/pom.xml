@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     
     <properties>
-        <mongodb-driver-sync.version>3.11.0</mongodb-driver-sync.version>
+        <mongodb-driver-sync.version>3.11.3</mongodb-driver-sync.version>
     </properties>
 
     <groupId>com.example</groupId>
